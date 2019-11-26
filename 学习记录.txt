@@ -1,2 +1,15 @@
-1 snsajkndsandjksnad
-sdvsfdkgsdpogiosdfjgosdfkog
+整体规划
+1 linux      5h
+2 网络基本       5h
+3 loadrunner使用     30h
+4 selnumshi使用    25h
+5 Django基本     20h
+6 测试理论 10h
+
+
+最终技能
+1 会制作简单b/s 程序        25h
+2 会基本性能测试           30h
+3 会基本自动化测试      25h
+4 会基本linux操作    3h
+5 通过5个经典测试用例设计练习—反复练习   2h
